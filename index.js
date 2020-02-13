@@ -15,7 +15,7 @@ var animal = 'cat'  // The tests expect this function to return `animal` just li
 }
 
 function add2(n) {
-  return n + two
+  return n += 2
 
   // Feel free to move things around!
   const two = 2
